@@ -42,6 +42,10 @@ export default defineConfig({
           link: '/cloudflared',
         },
         {
+          text: 'plex',
+          link: '/plex',
+        },
+        {
           text: 'watchtower',
           link: '/watchtower',
         },
