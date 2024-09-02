@@ -1,5 +1,7 @@
 # Docs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a45b6fc3-6332-4835-a77c-63c8914ba1d0/deploy-status)](https://app.netlify.com/sites/stupendous-granita-0c49f0/deploys)
+
 ## Environment
 
 ```bash
