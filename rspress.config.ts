@@ -42,6 +42,10 @@ export default defineConfig({
           link: '/cloudflared',
         },
         {
+          text: 'onlyoffice',
+          link: '/onlyoffice',
+        },
+        {
           text: 'plex',
           link: '/plex',
         },
